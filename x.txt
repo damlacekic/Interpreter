@@ -1,0 +1,8 @@
+
+  go<C:\Users\damla\OneDrive\Desktop\Kodlama\C>;
+
+make<damla\serkan\hulya\lutfiye\suheyla>;
+
+go<C:\Users\damla\OneDrive\Desktop>;
+
+make<sukru>;
